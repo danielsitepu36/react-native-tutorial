@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Enter name:</Text>
+      <Text>Enter your name:</Text>
       <TextInput
         multiline
         style={styles.input}
